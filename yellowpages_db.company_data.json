@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "671d321a5fb29b03b231a182"
+  },
+  "company_name": "Asmak Shaaban",
+  "address": "El Hana Tower Alex. Matrouh Rd. - Corniche El Max, El max, Alexandria.",
+  "description": "Asmak Shaaban, a name with extensive historical origins. Asmak Shaaban has a completely different taste because of their special seasoning as well as the best fried shrimp you've ever tasted. It is available in El Max branch only. The secret that makes our food taste delicious because all of our fish FRESH in addition to the irresistible mixture of distinctive spices.",
+  "phone": "Phone Number",
+  "website": "http://www.shabanseafood.com/",
+  "email_link": "//yellowpages.com.eg/en/profile/asmak-shaaban/30799?position=1&key=Restaurant&mod=keyword&categoryId=#send_Mail_form",
+  "categories": [
+    "Restaurants"
+  ],
+  "keywords": [
+    "Restaurant",
+    "Seafood"
+  ],
+  "scraped_date": "2024-10-26",
+  "search_term": "restaurant"
+},
+{
+  "_id": {
+    "$oid": "671d321a5fb29b03b231a183"
+  },
+  "company_name": "Chunky's Sandwich & Fries",
+  "address": "62 Othman Ibn Affan St., Safir Square, Heliopolis, Cairo.",
+  "description": "Established in 1997 serving American hotdogs. We expanded to offer varioua chicken & beef sandwiches. All our raw materials are produced by us, then processed in our kitchens, especially our delicious crunchy fries covered in Chunky’s special spice mix. Chunky’s: Quality & taste at a great price.",
+  "phone": "Phone Number",
+  "website": "N/A",
+  "email_link": "//yellowpages.com.eg/en/profile/chunky's-sandwich-&-fries/199932?position=2&key=Restaurant&mod=keyword&categoryId=#send_Mail_form",
+  "categories": [
+    "Fast Food"
+  ],
+  "keywords": [
+    "Restaurant",
+    "Sandwich Panel"
+  ],
+  "scraped_date": "2024-10-26",
+  "search_term": "restaurant"
+},
+{
+  "_id": {
+    "$oid": "671d321a5fb29b03b231a184"
+  },
+  "company_name": "El Temsaah Village",
+  "address": "Km 12.5 El kafoury Rd., Borg el arab, Alexandria.",
+  "description": "Offering the best types of Bedouin food and grills with a unique taste that is incomparable. Our products are from our farms, in a modern Bedouin atmosphere that suits all tastes. There is a children's amusement park and an animal gallery for free. We have reservations for factories, groups and gatherings. We promise you a magical and unforgettable experience.",
+  "phone": "Phone Number",
+  "website": "https://www.altemsah-village.com/",
+  "email_link": "//yellowpages.com.eg/en/profile/el-temsaah-village/619893?position=3&key=Restaurant&mod=keyword&categoryId=#send_Mail_form",
+  "categories": [
+    "B. B. Q."
+  ],
+  "keywords": [
+    "Restaurant",
+    "Restaurant Eat Out"
+  ],
+  "scraped_date": "2024-10-26",
+  "search_term": "restaurant"
+},
+{
+  "_id": {
+    "$oid": "671d321a5fb29b03b231a185"
+  },
+  "company_name": "N/A",
+  "address": "N/A",
+  "description": "N/A",
+  "phone": "N/A",
+  "website": "N/A",
+  "email_link": "N/A",
+  "categories": [],
+  "keywords": [],
+  "scraped_date": "2024-10-26",
+  "search_term": "restaurant"
+},
+{
+  "_id": {
+    "$oid": "671d321a5fb29b03b231a186"
+  },
+  "company_name": "5 Roosters Fried Chicken",
+  "address": "Masged Hatem St., Commercial Market, Semouha, Alexandria.",
+  "description": "One of the best Alexandria restaurants in fried chicken, delivering to most areas of Alexandria. The best-selling dishes are twister sandwich, risotto with hot sauce, dinner box meal and snack box meal. There is a variety of dishes and meals to choose from, such as sandwiches, side items, individual meals and family meals.",
+  "phone": "Phone Number",
+  "website": "N/A",
+  "email_link": "//yellowpages.com.eg/en/profile/5-roosters-fried-chicken/629053?position=4&key=Restaurant&mod=keyword&categoryId=#send_Mail_form",
+  "categories": [
+    "Fast Food"
+  ],
+  "keywords": [
+    "Chicken Restaurant",
+    "Restaurant"
+  ],
+  "scraped_date": "2024-10-26",
+  "search_term": "restaurant"
+}]
